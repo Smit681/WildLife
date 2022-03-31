@@ -1,0 +1,20 @@
+/*
+
+  Name: Smit Shah
+  Student id: 116605205
+  Username: syshah3@myseneca.ca
+  Web Final assessment
+
+*/
+
+/**
+ * Some common styles used across all pages
+ */
+
+nav {
+  display: flex;
+}
+
+a {
+  width: 140px;
+}

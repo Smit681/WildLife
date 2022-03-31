@@ -1,0 +1,26 @@
+/*
+
+  Name: Smit Shah
+  Student id: 116605205
+  Username: syshah3@myseneca.ca
+  Web Final assessment
+
+*/
+
+/**
+ * Styles for the add-observation.html page 
+ */
+.required {
+  font-weight: 500;
+  color: red;
+}
+input,
+textarea,
+select,
+button {
+  background-color: rgb(224, 224, 224);
+  width: auto;
+}
+.long {
+  width: 70%;
+}
